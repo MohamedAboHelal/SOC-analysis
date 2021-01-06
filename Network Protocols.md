@@ -12,9 +12,6 @@ A server can be single-purpose, providing only one service, such as web pages or
 
 # Network protocols
 
-<img src="D:\Typora\network_protocols.PNG>
-
-
 
 ##  1- Email protocols (SMTP - POP3 - IMAP )
 
