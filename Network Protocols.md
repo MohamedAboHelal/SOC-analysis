@@ -12,7 +12,7 @@ A server can be single-purpose, providing only one service, such as web pages or
 
 # Network protocols
 
-<img src="C:\Users\Mohamed Abohela\Desktop\network protocols.png" style="zoom:%;" />
+<img src="D:\Typora\network_protocols.PNG>
 
 
 
