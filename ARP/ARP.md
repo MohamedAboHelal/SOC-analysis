@@ -8,11 +8,7 @@
 - ARP request is:  sent when a device needs to determine the MAC address that is associated with an IPv4 address, and it does not have an entry for the IPv4 address in its ARP table.
 
 
-<p align="center">
-  <img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/ARP/Mics/ARP_request.PNGe" style="zoom:50%;">
-  </p>
-
-
+<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/ARP/Mics/ARP_request.PNG" style="zoom:50%;" />
 
 - Because ARP requests are broadcasts, they are flooded out all ports by the switch, except the receiving port. All Ethernet NICs on the LAN process broadcasts and must deliver the ARP request to its operating system for processing. Every device must process the ARP request to see if the target IPv4 address matches its own. A router will not forward broadcasts out other interfaces.
 - newer Windows operating systems store ARP table entries between 15 and 45 seconds, as illustrated in the figure.
