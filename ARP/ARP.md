@@ -8,8 +8,9 @@
 - ARP request is:  sent when a device needs to determine the MAC address that is associated with an IPv4 address, and it does not have an entry for the IPv4 address in its ARP table.
 
 
-
-<img src="D:\Typora\ARP_request.PNG" style="zoom:50%;" />
+<p align="center">
+  <img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/ARP/Mics/ARP_request.PNGe" style="zoom:50%;">
+  </p>
 
 
 
