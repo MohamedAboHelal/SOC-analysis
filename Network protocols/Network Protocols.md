@@ -15,7 +15,7 @@ obtained from the server.
 
 # Network protocols
 
-![](D:\github\SOC-analysis\Network protocols\Misc\network_protocols.PNG)
+![alt text](https://github.com/MohamedAboHelal/SOC-analysis/blob/main/Network%20protocols/Misc/network_protocols.PNG)
 
 
 
