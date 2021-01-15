@@ -10,9 +10,9 @@
 
 ### commands
 
-<img src="D:\github\SOC-analysis\git\Mics\git.PNG" style="zoom:80%;" />
+<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/git/Mics/git.PNG" style="zoom:80%;" />
 
-3. git clone + link -> to download repo from github
+1. git clone + link -> to download repo from github
 
 2. git add + file_name / * -> to add all files
 
