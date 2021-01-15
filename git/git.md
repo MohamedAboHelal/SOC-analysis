@@ -10,27 +10,21 @@
 
 ### commands
 
-1. git clone + link 
+<img src="D:\github\SOC-analysis\git\Mics\git.PNG" style="zoom:80%;" />
 
-   - to download repo from github
+3. git clone + link -> to download repo from github
 
-   
+2. git add + file_name / * -> to add all files
 
-2. <img src="D:\Typora\github.PNG" style="zoom:80%;" />
+3. git commit -m "message to commit"
 
-   
+4. git branch
 
-3. git add + file_name / * to add all files
+5. git remote -v
 
-4. git commit -m "message to commit"
+6. git push + remote_repo  branch
 
-5. git branch
-
-6. git remote -v
-
-7. git push + remote_repo  branch
-
-8. git pull + remote_repo = (git fetch + git merge) -> to download updated files
+7. git pull + remote_repo = (git fetch + git merge) -> to download updated files
 
    
 
