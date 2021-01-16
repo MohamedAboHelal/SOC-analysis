@@ -1,6 +1,6 @@
 - The transport layer is responsible for logical communications between applications running on different hosts. This may include services such as establishing a temporary session between two hosts and the reliable transmission of information for an application.
 
-<img src="D:\Typora\transport_layer.PNG" style="zoom:50%;" />
+<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/transport_layer.PNG" />
 
 
 
@@ -22,7 +22,7 @@
 
   ## TCP Header
 
-  ##  <img src="D:\Typora\tcp_header.PNG" style="zoom:90%;" />
+  ##  <img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/tcp_header.PNG" />
 
 
 
@@ -52,7 +52,7 @@
 
 - If both hosts support SACK, the receiver can explicitly acknowledge which segments (bytes) were received including any discontinuous segments.	
 
-![](D:\github\SOC-analysis\CyberOps Associate\Transport layer\Mics\SACK.PNG)
+<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/SACK.PNG" />
 
 
 
@@ -69,7 +69,7 @@
 
 ## UDP Header
 
-<img src="D:\Typora\UDP_header.PNG" style="zoom:80%;" />
+<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/UDP_header.PNG" />
 
 
 
@@ -88,7 +88,7 @@
 - The source port number acts as a return address for the requesting application. The transport layer keeps track of this port and the application that initiated the request so that when a response is returned, it can be forwarded to the correct application.
 ```
 
-<img src="D:\Typora\socket.PNG" style="zoom:67%;" />
+<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/socket.PNG" />
 
 
 
