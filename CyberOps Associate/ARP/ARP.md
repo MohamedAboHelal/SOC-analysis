@@ -9,7 +9,7 @@
 
 
 
-<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/ARP/Mics/ARP_request.PNG" style="zoom:50%;" />
+<img align="center" width="900" height="400" src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/ARP/Mics/ARP_request.PNG" />
 
 
 
