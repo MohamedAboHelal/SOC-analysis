@@ -1,6 +1,6 @@
 - The transport layer is responsible for logical communications between applications running on different hosts. This may include services such as establishing a temporary session between two hosts and the reliable transmission of information for an application.
 
-<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/transport_layer.PNG" />
+<img align="center" width="800" height="400" src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/transport_layer.PNG" />
 
 
 
@@ -22,7 +22,7 @@
 
   ## TCP Header
 
-  ##  <img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/tcp_header.PNG" />
+  ##  <img  src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/tcp_header.PNG" />
 
 
 
@@ -52,7 +52,7 @@
 
 - If both hosts support SACK, the receiver can explicitly acknowledge which segments (bytes) were received including any discontinuous segments.	
 
-<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/SACK.PNG" />
+<img align="center"  height="500" src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/SACK.PNG" />
 
 
 
@@ -88,7 +88,7 @@
 - The source port number acts as a return address for the requesting application. The transport layer keeps track of this port and the application that initiated the request so that when a response is returned, it can be forwarded to the correct application.
 ```
 
-<img src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/socket.PNG" />
+<img align="center" width="700" height="400" src="https://github.com/MohamedAboHelal/SOC-analysis/blob/main/CyberOps%20Associate/Transport%20layer/Mics/socket.PNG" />
 
 
 
